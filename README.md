@@ -38,6 +38,6 @@ O halde açılışı yapalım :)
 ```
 $log.delipenguenLogging(true);
 ```
-Örnek
+Çalışan Örnek
 =================================
 https://jsfiddle.net/DeliPenguen/mxw6xems/
